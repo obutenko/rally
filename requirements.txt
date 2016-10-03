@@ -49,3 +49,4 @@ python-swiftclient>=2.2.0                              # Apache Software License
 python-troveclient>=2.2.0                              # Apache Software License
 python-watcherclient>=0.23.0                           # Apache Software License
 python-zaqarclient>=1.0.0                              # Apache Software License
+pycparser!=2.14  # BSD  #
